@@ -1,0 +1,169 @@
+div
+{
+    background-color: #efbbcf;
+    margin: auto;
+}
+body{
+    margin:auto;
+    text-align: center ;
+    width: 2200px;
+}
+h1{
+
+    margin:-50%;
+    font-family: 'Sacramento', cursive;
+    line-height: 2;
+
+}
+.clouds
+{
+    width: 40%;
+}
+/*h2
+{   
+    margin: -50%;
+    font-family: ui-sans-serif; 
+
+}
+div.top{
+    height: 200px;
+    width: 200px;
+    background-color: #c86b85;
+}
+div.middle{
+    height: 200px;
+    width: 200px;
+    background-color: #e6a4b4;
+}
+div.bottom{
+    height: 200px;
+    width: 200px;
+    background-color: #fbafaf;
+}*/
+
+.Web
+{
+    text-decoration: underline;
+}
+.h2
+{
+    font-size: 75%;
+    text-align: right;
+    font-family: 'Architects Daughter', cursive;
+    color: black;
+    line-height: 20%;
+
+}
+.h1
+{
+    font-size: 200%;
+    color: black;
+}
+/*img{
+    position: relative;
+    
+}*/
+.middle-container
+{
+    margin-top: 82.25%;
+}
+h2
+{
+    font-size: 500%;
+    font-family: 'Ranchers', cursive;
+
+
+}
+h3
+{
+    font-size: 250%;
+}
+p
+{
+    font-size: 150%;
+    line-height: 3;
+    font-family: 'Syne Tactile', cursive;
+
+}
+.gps:hover .overlay
+{
+     bottom: 0;
+     height: 100%;
+}
+.bottom-container
+{
+    margin: 0 0 0 0;
+}
+.pic1
+{
+    width : 40%;
+    margin: auto;
+}
+
+.pic2
+{
+    
+    float :right 
+}
+.cnt
+{
+    width: 20%;
+}
+.skill-row
+{
+    width: 70%;
+    line-height: 2;
+}
+.careeralign
+{
+    text-align: left;
+}
+.pic3
+{
+    float: left;
+}
+.pic4
+{
+    float: right;
+}
+.pic5
+{
+    float: right;
+}
+.pic6
+{
+    float: right;
+    width: 18%;
+}
+.pic7
+{
+    float: right;
+}
+.pic8
+{
+    float: left;
+    width: 30%;
+}
+.pic9
+{
+    float: right;
+}
+.awards
+{
+    text-align: center;
+}
+.awardssize
+{
+    font-size: 150%;
+}
+.booksize
+{   
+    font-size: 150%;
+    text-align: left;
+}
+ul
+{
+    font-family: 'Syne Tactile', cursive;
+    text-align: left;
+
+}
